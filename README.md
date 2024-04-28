@@ -1,2 +1,2 @@
-# dio-trilha-java-basico
-Repositório para exemplo do curso de Java pela DIO
+# Bootcamp Santader Back End Dio
+Repositório para armazenar os códigos do curso de Java Básico pela DIO.
